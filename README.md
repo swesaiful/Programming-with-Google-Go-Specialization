@@ -1,3 +1,6 @@
+![Golang](https://user-images.githubusercontent.com/43824133/88384635-0d09be00-cdad-11ea-8147-7936802fea3c.jpg)
+
+
 # Programming with Google Go Specialization by University of California, Irvine on Coursera
 
 This repository contains only assignment solution done by me.
