@@ -14,7 +14,7 @@ This repository contains only assignment solution done by me.
 - [Week 3](https://github.com/swesaiful/Programming-with-Google-Go-Specialization/tree/master/Getting%20Started%20with%20Go/Week3)
 
 
-- [Week 4](hhttps://github.com/swesaiful/Programming-with-Google-Go-Specialization/tree/master/Getting%20Started%20with%20Go/Week4)
+- [Week 4](https://github.com/swesaiful/Programming-with-Google-Go-Specialization/tree/master/Getting%20Started%20with%20Go/Week4)
 
 ---
 
