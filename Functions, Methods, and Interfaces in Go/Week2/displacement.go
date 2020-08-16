@@ -54,10 +54,10 @@ func readUserInput(inputType string) float64 {
 func main(){
 	var acceleration, initialVelocity, initialDisplacement, time float64
 
-    acceleration = readUserInput("accelleration")
-    initialVelocity = readUserInput("velocity")
-    initialDisplacement = readUserInput("displacement")
-    time = readUserInput("time")
+    	acceleration = readUserInput("accelleration")
+    	initialVelocity = readUserInput("velocity")
+    	initialDisplacement = readUserInput("displacement")
+    	time = readUserInput("time")
 
 	fn := GenDisplaceFn(acceleration, initialVelocity, initialDisplacement)
 	
@@ -65,6 +65,5 @@ func main(){
 	fmt.Printf("velocity:     %f\n", initialVelocity)
 	fmt.Printf("displacement: %f\n", initialDisplacement)
 	fmt.Printf("time:         %f\n", time)
-    fmt.Printf("Displacement: %f\n", fn(time))
-
+   	fmt.Printf("Displacement: %f\n", fn(time))
 }
